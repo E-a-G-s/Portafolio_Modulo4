@@ -1,0 +1,118 @@
+[
+
+{
+
+    "name":"bishop",
+    "precio":50000,
+    "id":1,
+    "titulo":"Máquina Bishop Power Wand Liner-RCA de 5,0 mm",
+    "img":"./assets/img/imgApi/maquina1.png",
+    "img2":"./assets/img/maquinas/maquina001.avif",
+    "seccion":"maquina",
+    "color":"Negro",
+    "peso":"150-200 gramos",
+    "fabricacion":"Año 2022",
+    "informacion":" El Power Wand Liner está diseñado para todo tipo de trabajo de línea, sombreado 3RL, trabajo de puntos y trabajo en negro. Tiene una carrera fija de 5,0 mm y un voltaje de trabajo recomendado de 6v a 8v debido al potente golpe del motor."
+},
+{
+
+    "name":"valhalla",
+    "precio":100000,
+    "id":2,
+    "titulo":"The Valhalla Pen by AXYS Rotary is an all-purpose machine",
+    "img":"./assets/img/imgApi/maquina2.png",
+    "img2":"./assets/img/maquinas/maquina002.avif",
+    "seccion":"maquina",
+    "color":"Rojo-Rojo-Negro",
+    "peso":"150-200 gramos",
+    "fabricacion":"Año 2021",
+    "informacion":" El Valhalla cuenta con un sello de alto rendimiento alrededor de la barra del émbolo para vitar el reflujo de tinta en ambas direcciones, bordes afilados mínimos y cavidades para facilitar la    limpieza, y cinco longitudes de trazo ajustables"
+},
+{
+
+    "name":"viper",
+    "precio":200000,
+    "id":3,
+    "titulo":" The Viper Rotary Machine a versatile rotary pen",
+    "img":"./assets/img/imgApi/maquina3.png",
+    "img2":"./assets/img/maquinas/maquina03.avif",
+    "seccion":"maquina",
+    "color":"Rojo-Plateado-verde-Negro",
+    "peso":"150-200 gramos",
+    "fabricacion":"Año 2020",
+    "informacion":"El Viper es un testimonio de un estilo artístico soberbio y está repleto de lo último en perfección de ingeniería. En una industria cargada de plumas gruesas para cigarros, el estilo serpenteante del Viper es más que atractivo... es tranquilizador."
+},
+
+{
+
+    "name":"pBlack",
+    "precio":11000,
+    "id":4,
+    "titulo":"Perfect Black",
+    "img":"./assets/img/imgApi/tinta1.png",
+    "img2":"./assets/img/tintas/tinta001.avif",
+    "seccion":"tinta",
+    "marca":"Ink",
+    "material":"pigmentos y colorantes solubles",
+    "informacion":"Un revestimiento negro con una consistencia entre nuestro revestimiento negro más delgado (E01) y nuestro triple negro mucho más grueso (E02)."
+
+},
+
+{
+
+    "name":"bSuede",
+    "precio":11000,
+    "id":5,
+    "titulo":"Blue Suede",
+    "img":"./assets/img/imgApi/tinta2.png",
+    "img2":"./assets/img/tintas/tinta02.avif",
+    "seccion":"tinta",
+    "marca":"Vintage Ink",
+    "material":"pigmentos y colorantes solubles",
+    "informacion":"Uno por el dinero, dos por el espectáculo, y aquí está el azul que realmente te hará ir."
+},
+
+{
+
+    "name":"thunder",
+    "precio":12000,
+    "id":6,
+    "titulo":"Thunderbird",
+    "img":"./assets/img/imgApi/tinta3.png",
+    "img2":"./assets/img/tintas/tinta03.avif",
+    "seccion":"tinta",
+    "marca":"Vintage Ink",
+    "material":"pigmentos y colorantes solubles",
+    "informacion":" Más fresco que las aletas de un sedán, y recuerda mucho a cierto pigmento polvoriento del pasado. Más cálido y oscuro que el aguamarina, menos vibrante y ligeramente más azul que el verde coral."
+
+},
+
+{
+
+    "name":"dPurple",
+    "precio":13000,
+    "id":7,
+    "titulo":"Dark Purple",
+    "img":"./assets/img/imgApi/tinta4.png",
+    "img2":"./assets/img/tintas/tinta04.avif",
+    "seccion":"tinta",
+    "marca":"Ink",
+    "material":"pigmentos y colorantes solubles",
+    "informacion":"El mejor color purpura que podras encontrar en el mercado. Especial para aquellos tonos oscuros del arte del tatuaje."
+},
+
+{
+
+    "name":"Plum",
+    "precio":15000,
+    "id":8,
+    "titulo":"Plum",
+    "img":"./assets/img/imgApi/tinta5.png",
+    "img2":"./assets/img/tintas/tinta05.avif",
+    "seccion":"tinta",
+    "marca":"Ink",
+    "material":"pigmentos y colorantes solubles",
+    "informacion":"Un violeta muy oscuro, como la piel de una ciruela."
+}
+]
+

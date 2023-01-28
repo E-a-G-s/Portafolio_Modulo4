@@ -1,0 +1,94 @@
+body {
+  margin: 1px;
+  background-color: #63676b;
+  font-family: "Trade Winds";
+  font-size: 16px;
+ 
+}
+
+header {
+  font-family: "Trade Winds";
+}
+.titulo {
+  color: white;
+  font-family: "Trade Winds", cursive;
+}
+
+/* Iconos */
+
+.icon:hover{
+color: black;
+}
+/* Navbar */
+.navBarColor {
+  font-family: "Trade Winds", cursive;
+  background: #424950ec;
+}
+/* Seccion maquina */
+.sectionCardsMaquina {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.cardMaquina {
+  margin: 5px;
+}  
+
+
+/* Seccion Tinta */
+.iconInfo {
+  font-size: 5em;
+  color: rgba(255, 255, 255, 0.589);
+}
+.sectionCardsTintas {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+/* Footer */
+
+footer a i {
+  color: white;
+}
+/* Para el login */
+.footerLogin{
+  position:fixed;
+  left:0px;
+  bottom:15px;
+  height:50px;
+  width:100%;
+
+}
+.login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+
+
+}
+/* Carrito */
+.cardsCarrito{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/* 
+font-family: 'BhuTuka Expanded One', cursive;
+font-family: 'Birthstone Bounce', cursive;
+font-family: 'PT Serif', serif;
+font-family: 'Sono', sans-serif;
+font-family: 'Trade Winds', cursive; */
